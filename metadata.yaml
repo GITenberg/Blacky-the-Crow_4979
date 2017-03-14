@@ -1,5 +1,8 @@
 _repo: Blacky-the-Crow_4979
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Burgess, Thornton W. (Thornton Waldo)
@@ -12,6 +15,8 @@ creator:
 description: Blacky the clever crow shares adventures with other animals in the Green
   Meadows and by the Big River, as he considers stealing eggs from Hooty the owl,
   helps Farmer Brown's boy protect Dusty the wood duck, and engages in other escapades.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4979#Blacky-the-Crow
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
